@@ -1,0 +1,25 @@
+body{
+    padding-top: 20px;
+    background-color: blanchedalmond;
+    text-align: center;
+
+}
+.calculation{
+    width: 50%;
+    height: 400px;
+    background-color: cadetblue;
+    position: relative;
+    top: 30%;
+    left: 30%;
+    box-shadow: 2px 2px 2px 2px grey;
+
+}
+#title{
+    padding: 15px 0px;
+}
+#credit{
+    margin: 10px 0px;
+}
+#grade{
+    margin: 10px 0px;
+}
